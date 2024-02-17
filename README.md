@@ -1,2 +1,3 @@
 # Diabetes-Prediction-System
-This is a Machine Learning Project
+
+This is a Prediction Project Using Machine Learning & Python
